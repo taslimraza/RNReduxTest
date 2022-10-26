@@ -1,0 +1,8 @@
+export const GET_DEVICE="GET_DEVICE";
+export const ADD_DEVICE="ADD_DEVICE";
+export const UPDATE_DEVICE="UPDATE_DEVICE";
+export const DELETE_DEVICE="DELETE_DEVICE";
+export const GET_QUOTE="GET_QUOTE";
+export const GET_QUOTE_SUCCESS="GET_QUOTE_SUCCESS";
+export const CLEAR_QUOTE="CLEAR_QUOTE";
+export const TOGGLE_THEME="TOGGLE_THEME";
